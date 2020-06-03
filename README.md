@@ -1,2 +1,2 @@
 # LoginItemScriptsLauncher
-Used for launching login item scripts
+AppleScript .app used for launching login item scripts.
